@@ -1,8 +1,8 @@
 nav_items:
   - label: Home
     path: /
-  - label: Products
-    path: /products/
+  - label: 0ur NFT Collection
+    path: /NFT/
   - label: News
     path: /news
   - path: /news/nft
