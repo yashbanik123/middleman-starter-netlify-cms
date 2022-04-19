@@ -6,4 +6,6 @@ nav_items:
   - label: News
     path: /news
   - path: /news/nft
-    label: NFT news
+    label: NFT News
+  - path: /news/crypto
+    label: Crypto News
