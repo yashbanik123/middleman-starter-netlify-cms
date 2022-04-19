@@ -1,12 +1,1 @@
-.product-detail
-  .image style=background_image(image_path(product.image))
-  .content
-    .meta
-      h1 = product.title
 
-      .price
-        - currency = data.settings.units.currency || '€' 
-        span = currency + product.price.to_s 
-
-    .body
-      = markdown product.body
