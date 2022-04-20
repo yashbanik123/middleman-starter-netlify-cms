@@ -10,14 +10,6 @@ story: >-
 
   </br>
 
-
-  <!DOCTYPE html>
-
-
-  <html>
-
-  <head>
-
   <style>
 
   a:link, a:visited {
@@ -27,29 +19,6 @@ story: >-
     text-align: center;
     text-decoration: none;
     display: inline-block;
-  }
-
-
-  a:hover, a:active {
-    background-color: <!--StartFragment-->
-
-  \#128C7E
-
-
-  <!--EndFragment-->;
-
-  }
-
   </style>
 
-
-  </head>
-
-  <body>
-
   <a href="https://wa.me/message/I3SS2CRKRPH5D1" target="_blank">WhatsApp       Me</a>
-
-
-  </body>
-
-  </html>
