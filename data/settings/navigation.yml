@@ -1,13 +1,5 @@
 nav_items:
   - label: Home
     path: /
-  - label: 0ur NFT Collection
-    path: /NFT/
-  - label: News
-    path: /news
-  - path: /news/nft
-    label: NFT News
-  - path: /news/crypto
-    label: Crypto News
   - label: F&Q
     path: /news/f&q/
