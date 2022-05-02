@@ -3,3 +3,5 @@ nav_items:
     path: /
   - label: F&Q
     path: /news/f&q/
+  - label: Contact Us
+    path: /contact-us
